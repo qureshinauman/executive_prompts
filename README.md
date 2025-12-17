@@ -8,6 +8,7 @@ b.	Operational maintenance (e.g., upgrades, support)
 4.	A prioritised recommendation list for next quarter (Q1 2026) investments based on:
 a.	Strategic alignment
 b.	ROI potential
+
 **Output Requirements:**
 •	Format as an executive summary (max 2 pages) with:
 o	Overview of findings
@@ -17,5 +18,6 @@ o	Recommendations section
 o	Spend by category
 o	KPI coverage
 o	Identified gaps/redundancies
+
 **Objective:**
 Provide portfolio-level visibility to enable data-driven decisions and support budget discussions with the CFO and board. Ensure confidentiality of financial data; summarise sensitive figures rather than exposing raw details.
