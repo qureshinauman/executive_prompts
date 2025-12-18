@@ -13,17 +13,17 @@ secondary coverage of **Logistics**.
 
 **\*\*Geographic Scope: \*\***
 
-- Global coverage but explicit inclusion of Middle East--relevant
+- Global coverage but explicit inclusion of Middle East-relevant
   developments (UAE, Saudi, GCC, MENA, regional investments, policy,
   infrastructure, and major enterprise activity)
 
 **\*\*Output Requirements:\*\***
 
-- 10--15 total headlines
+- 10-15 total headlines
 
 - Clear headline (without images)
 
-- 1--2 sentence factual summary (without images).
+- 1-2 sentence factual summary (without images).
 
 - Why it matters (business, policy, or strategic implication)
 
@@ -99,7 +99,7 @@ into a clear, defensible recommendation.
 
 # Technology Investment Portfolio Analysis
 
-Analyse technology investment data from the past quarter **(Sep--Dec
+Analyse technology investment data from the past quarter **(Sep-Dec
 2025)** using emails, meeting notes, and budget documents stored in
 \[**specific folders or sources**\]. Produce a CFO-ready report that
 includes:
@@ -150,7 +150,7 @@ than exposing raw details.
 
 # Security Posture Executive Briefing
 
-Analyse security data from the last quarter (**Oct--Dec 2025**),
+Analyse security data from the last quarter (**Oct-Dec 2025**),
 including:
 
 - Security incident reports
@@ -224,7 +224,7 @@ management.
 
 # Innovation Pipeline Prioritization Framework
 
-Analyse innovation-related documents from the past 6 months (July--Dec
+Analyse innovation-related documents from the past 6 months (July-Dec
 2025), include:
 
 - R&D project proposals
@@ -280,7 +280,7 @@ to balance competing priorities and support strategic decision-making.
 
 **Digital Transformation Impact Assessment**
 
-Analyse data from the last six months (July--Dec 2025), including:
+Analyse data from the last six months (July-Dec 2025), including:
 
 - Digital transformation programme documents
 
@@ -316,8 +316,8 @@ Produce a comprehensive impact assessment that includes:
     Executive Summary, Outcome Metrics, User Segment Analysis, Emerging
     Issues, Change Fatigue Assessment, Recommendations. (Max 3-pages)
 
-  - **\*\*2-Slide Executive Summary\*\*:** Slide 1 -- Key Findings;
-    Slide 2 -- Recommended Actions.
+  - **\*\*2-Slide Executive Summary\*\*:** Slide 1 - Key Findings;
+    Slide 2 - Recommended Actions.
 
 - Use clear business language suitable for leadership; avoid technical
   jargon.
@@ -352,7 +352,7 @@ Produce a comprehensive progress report that includes:
     business priorities or technical discoveries.
 
 4.  Forecast of likely end-of-quarter achievement levels with confidence
-    intervals (e.g., 70--85% probability).
+    intervals (e.g., 70-85% probability).
 
 5.  Specific recommendations for intervention on at-risk objectives.
 
@@ -436,7 +436,7 @@ ensure resilience under varying market conditions.
 # Technical Talent Strategy Brief (Dependent On Data)
 
 Analyse our internal talent-related data from the past 12 months
-(Jan--Dec 2025), including:
+(Jan-Dec 2025), including:
 
 - Hiring data and recruitment funnel metrics
 
@@ -576,19 +576,19 @@ enterprise that annually spends \$500 million dollar on IT:
 
 - RACI Role:
 
-  - EA -- Enterprise Architecture (Central)
+  - EA - Enterprise Architecture (Central)
 
-  - EARB -- Enterprise Architecture Review Board
+  - EARB - Enterprise Architecture Review Board
 
-  - PT -- Product / Delivery Teams
+  - PT - Product / Delivery Teams
 
-  - SEC -- Security, Risk, Compliance
+  - SEC - Security, Risk, Compliance
 
-  - CIO -- CIO / Technology Executive Sponsor
+  - CIO - CIO / Technology Executive Sponsor
 
-  - PMO -- Portfolio / Program Management
+  - PMO - Portfolio / Program Management
 
-  - PROC -- Procurement (for technology sourcing)
+  - PROC - Procurement (for technology sourcing)
 
 - RACI for:
 
@@ -641,7 +641,7 @@ Include:
 - Integration with portfolio management, product teams, procurement,
   security
 
-**7. Implementation Roadmap (90--180 Days)**
+**7. Implementation Roadmap (90-180 Days)**
 
 Break into clear phases:
 
@@ -685,7 +685,7 @@ performance review to their vendor. Your goal is to take the provided
 information and generate a professional performance review for the
 vendor.
 
-**STEP 1 --- Ask Questions One-by-One**
+**STEP 1 -- Ask Questions One-by-One**
 
 - Ask ONLY one question at a time.
 
@@ -713,18 +713,18 @@ outstanding)
 Q6. Satisfaction Score (Between 1-10. 1 being lowest, 10 being
 outstanding)
 
-**STAGE 2 --- Confirm Completion**
+**STAGE 2 -- Confirm Completion**
 
 After you have collected all 6 answers, say:
 
 \"All required information is collected. Generate the review now?
 (YES/NO)\"
 
-**STAGE 3 --- Generate Review**
+**STAGE 3 -- Generate Review**
 
 If the user says YES:
 
-\- Produce a 300--500 word vendor performance review.
+\- Produce a 300-500 word vendor performance review.
 
 \- Wrap the full review inside:
 
@@ -734,7 +734,7 @@ If the user says YES:
 
 2.  Satisfaction Score
 
-3.  Overall Summary (2--3 sentences)
+3.  Overall Summary (2-3 sentences)
 
 4.  Key Strengths & Accomplishments (2-3 sentences)
 
